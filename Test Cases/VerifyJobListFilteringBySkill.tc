@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifyJobListFilteringBySkill</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b08acabb-64ff-44ed-9570-b544ff251f74</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3a0e72af-2335-4690-81ff-2bae42aacb47</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Javascript'</defaultValue>
+      <description></description>
+      <id>3a0e72af-2335-4690-81ff-2bae42aacb47</id>
+      <masked>false</masked>
+      <name>skill</name>
+   </variable>
+</TestCaseEntity>

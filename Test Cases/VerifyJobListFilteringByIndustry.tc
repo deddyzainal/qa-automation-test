@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifyJobListFilteringByIndustry</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c3f183c9-8cf6-4d1d-94fe-2aec629e0c22</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e121fdcb-a407-4ad0-ab54-a1ef614f81c3</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Computer Software'</defaultValue>
+      <description></description>
+      <id>e121fdcb-a407-4ad0-ab54-a1ef614f81c3</id>
+      <masked>false</masked>
+      <name>companyIndustry</name>
+   </variable>
+</TestCaseEntity>

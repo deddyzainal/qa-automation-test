@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SearchJobListByLocation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0fa78cb2-4107-4e9e-8cd6-9713575fe7a4</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>064051a6-8ba9-44d5-ad00-9b2af24c0fcd</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Vietnam'</defaultValue>
+      <description></description>
+      <id>064051a6-8ba9-44d5-ad00-9b2af24c0fcd</id>
+      <masked>false</masked>
+      <name>location</name>
+   </variable>
+</TestCaseEntity>

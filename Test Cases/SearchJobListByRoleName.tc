@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SearchJobListByRoleName</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b705ab03-7f3b-4a93-b0e7-4063fcceea10</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9c4179b3-6f09-423d-8abb-d8c34ea1d783</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'QA Engineer'</defaultValue>
+      <description></description>
+      <id>9c4179b3-6f09-423d-8abb-d8c34ea1d783</id>
+      <masked>false</masked>
+      <name>roleName</name>
+   </variable>
+</TestCaseEntity>

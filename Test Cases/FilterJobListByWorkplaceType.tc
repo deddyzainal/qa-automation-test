@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FilterJobListByWorkplaceType</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3616f43c-9a3c-4c2d-868e-f97b96c7a685</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c472cc02-e81d-46ec-b5a9-65d5384b244f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Remote'</defaultValue>
+      <description></description>
+      <id>c472cc02-e81d-46ec-b5a9-65d5384b244f</id>
+      <masked>false</masked>
+      <name>workingType</name>
+   </variable>
+</TestCaseEntity>
