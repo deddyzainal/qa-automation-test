@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Latest</name>
+   <tag></tag>
+   <elementGuidId>7ad833ea-ffad-40b1-ac75-5aa1784f6522</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[12]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.chakra-button.css-r8heyh</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c671d2d1-4a0c-4af5-a116-1e60e94eb205</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f53defb7-d56f-4068-ab91-ea2928fd9de6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-button css-r8heyh</value>
+      <webElementGuid>e41a2a2f-d3db-4d9f-826f-622fdb715a59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Latest</value>
+      <webElementGuid>dc734e3a-5dca-4332-aaa8-0fc3f0f20118</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;chakra-ui-dark&quot;]/div[@class=&quot;chakra-stack css-2g2zqz&quot;]/div[@class=&quot;css-wqpyv4&quot;]/div[@class=&quot;css-fe39u1&quot;]/div[@class=&quot;css-ntl5gp&quot;]/div[@class=&quot;css-18v0xds&quot;]/div[@class=&quot;css-y6l269&quot;]/div[@class=&quot;css-144u8m4&quot;]/div[@class=&quot;css-1gybhdd&quot;]/div[@class=&quot;css-1ctzyoe&quot;]/div[@class=&quot;chakra-stack css-1qf67zh&quot;]/div[@class=&quot;chakra-stack css-11vtdoe&quot;]/div[@class=&quot;chakra-stack css-1ekpsh2&quot;]/div[@class=&quot;css-1a81z9b&quot;]/button[@class=&quot;chakra-button css-r8heyh&quot;]</value>
+      <webElementGuid>41db8287-d6b6-4423-91ba-d73bb2c2a706</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[12]</value>
+      <webElementGuid>83d08e73-80be-4a38-98f5-5f42ac4a720e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Integration Testing Software'])[1]/following::button[5]</value>
+      <webElementGuid>78782393-ab23-4fa0-bcfb-c723f42cd01f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Azure'])[2]/following::button[5]</value>
+      <webElementGuid>bfef65d8-c806-4d35-a146-5b9f6cfb7248</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::button[3]</value>
+      <webElementGuid>bf65e5fa-8e8e-47b9-b628-bf96e2649d92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alt'])[1]/preceding::button[3]</value>
+      <webElementGuid>980a929c-4196-4761-b738-64bcf4f5977e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/div/div/div/div[3]/div/div[2]/div/button</value>
+      <webElementGuid>8c71e4b5-e72b-4e16-b849-5e628050b1e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Latest' or . = 'Latest')]</value>
+      <webElementGuid>3458b19e-ddc8-4940-a676-fdc980b10147</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

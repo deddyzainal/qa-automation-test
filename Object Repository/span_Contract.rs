@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Contract</name>
+   <tag></tag>
+   <elementGuidId>0bbec820-401e-43bc-b9ff-ca4f54286e8f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Part-time'])[1]/following::span[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.css-j3fo9v</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4324b2c0-fd6b-4855-b542-89986547c7c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-j3fo9v</value>
+      <webElementGuid>c794398e-962d-46e3-a25a-529a2c7499f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Contract</value>
+      <webElementGuid>10c24da2-6ebd-468c-9656-91d35be81d5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;chakra-ui-dark&quot;]/div[@class=&quot;chakra-stack css-2g2zqz&quot;]/div[@class=&quot;css-wqpyv4&quot;]/div[@class=&quot;css-fe39u1&quot;]/div[@class=&quot;css-ntl5gp&quot;]/div[@class=&quot;css-18v0xds&quot;]/div[@class=&quot;css-y6l269&quot;]/div[@class=&quot;css-144u8m4&quot;]/div[@class=&quot;css-1gybhdd&quot;]/div[@class=&quot;css-1ctzyoe&quot;]/div[@class=&quot;chakra-stack css-q9jyrf&quot;]/div[@class=&quot;chakra-stack css-1v1dldu&quot;]/div[@class=&quot;chakra-stack css-p1hkbd&quot;]/div[@class=&quot;css-1ic03qn&quot;]/span[@class=&quot;css-j3fo9v&quot;]</value>
+      <webElementGuid>c30dbbf3-6885-410a-b480-f6f32a3d35be</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Part-time'])[1]/following::span[1]</value>
+      <webElementGuid>2e4aacdc-b413-475b-8675-1a51b96df6ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Freelance'])[1]/following::span[3]</value>
+      <webElementGuid>9ba926ab-e514-4035-92ef-f402da797f7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Industry ...'])[1]/preceding::span[4]</value>
+      <webElementGuid>38aea288-f3b6-450f-b17a-73f859bab642</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[4]</value>
+      <webElementGuid>eeb8d412-8605-4c02-a000-6bbad9e8cd37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Contract' or . = 'Contract')]</value>
+      <webElementGuid>2449313b-6c9a-472c-989e-8544ffd472eb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>list_first_job</name>
+   <tag></tag>
+   <elementGuidId>594e7e22-1ac8-43c2-8012-3bc603af4c88</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content-center']/div[2]/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.chakra-stack.css-rozekk</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>72cc0937-d2db-441d-8412-3db34d066124</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-stack css-rozekk</value>
+      <webElementGuid>58226ea9-92ae-4f8a-9b6e-55e1f5a28bb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Senior Game Designer - OriginsSky Mavis - Vietnam - Ho Chi Minh CityOn-siteNegotiableBlockchainIn-game EconomyGame BalanceSystem DesignIn-game Monetization</value>
+      <webElementGuid>60afd618-bddc-4836-93c3-e609ae4d531a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content-center&quot;)/div[@class=&quot;css-16gze1t&quot;]/div[@class=&quot;infinite-scroll-component__outerdiv&quot;]/div[@class=&quot;infinite-scroll-component&quot;]/div[@class=&quot;chakra-stack css-qzvunm&quot;]/div[@class=&quot;chakra-stack css-rozekk&quot;]</value>
+      <webElementGuid>12d627d8-d524-4df1-a2a5-74d46d72fab7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content-center']/div[2]/div/div/div/div</value>
+      <webElementGuid>74f0826f-43d5-4e12-acdb-1ee18c5850bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DevOps'])[1]/following::div[6]</value>
+      <webElementGuid>a63fe423-ddfa-4fec-b86a-635da69b0df4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Java'])[1]/following::div[6]</value>
+      <webElementGuid>07246992-143a-4d3b-8163-7aab4e129ec4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/div[2]/div/div/div/div</value>
+      <webElementGuid>efe7ebd0-7fb7-49e1-a7f2-19841bf9cff0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Senior Game Designer - OriginsSky Mavis - Vietnam - Ho Chi Minh CityOn-siteNegotiableBlockchainIn-game EconomyGame BalanceSystem DesignIn-game Monetization' or . = 'Senior Game Designer - OriginsSky Mavis - Vietnam - Ho Chi Minh CityOn-siteNegotiableBlockchainIn-game EconomyGame BalanceSystem DesignIn-game Monetization')]</value>
+      <webElementGuid>87249f65-e58d-45eb-bfbe-17ec19065bf7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

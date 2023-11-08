@@ -1,0 +1,8 @@
+{"testCaseName":"Test Cases/SearchJobListByLocation","testCaseId":"Test Cases/SearchJobListByLocation","iterationVariableName":""}
+{"testCaseName":"Test Cases/SearchJobListByRoleName","testCaseId":"Test Cases/SearchJobListByRoleName","iterationVariableName":""}
+{"testCaseName":"Test Cases/VerifyJobDetailsPage","testCaseId":"Test Cases/VerifyJobDetailsPage","iterationVariableName":""}
+{"testCaseName":"Test Cases/SortJobListByOldest","testCaseId":"Test Cases/SortJobListByOldest","iterationVariableName":""}
+{"testCaseName":"Test Cases/FilterJobListByJobType","testCaseId":"Test Cases/FilterJobListByJobType","iterationVariableName":""}
+{"testCaseName":"Test Cases/VerifyJobListFilteringByIndustry","testCaseId":"Test Cases/VerifyJobListFilteringByIndustry","iterationVariableName":""}
+{"testCaseName":"Test Cases/VerifyJobListFilteringBySkill","testCaseId":"Test Cases/VerifyJobListFilteringBySkill","iterationVariableName":""}
+{"testCaseName":"Test Cases/FilterJobListByWorkplaceType","testCaseId":"Test Cases/FilterJobListByWorkplaceType","iterationVariableName":""}

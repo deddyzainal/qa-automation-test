@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Search</name>
+   <tag></tag>
+   <elementGuidId>34180ad2-b2af-45ab-97ab-a5048259107a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-ozgtb0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;react-select-search-input&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e15faafe-583a-4e8a-80df-2c3c712cc999</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-ozgtb0</value>
+      <webElementGuid>3e0cb55e-3e29-4bf2-8d6e-dc52b2dc6345</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Search ...</value>
+      <webElementGuid>adac4c93-023d-4eb5-be58-801e66e50695</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content-center&quot;)/div[@class=&quot;chakra-stack css-1xtdw5h&quot;]/div[@class=&quot;css-19xiadh&quot;]/div[@class=&quot;css-8zcgzi&quot;]/div[@class=&quot;css-1j3m1ti&quot;]/div[@class=&quot;css-bk7pyt&quot;]/div[@class=&quot;css-a54j77-control&quot;]/div[@class=&quot;css-ozgtb0&quot;]</value>
+      <webElementGuid>070972f5-632a-4eb9-bed5-77ca0043d40b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content-center']/div/div/div/div/div/div/div</value>
+      <webElementGuid>37145807-6358-446b-bcd7-7b16de067dc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Timezone ...'])[1]/following::div[10]</value>
+      <webElementGuid>c628e2fc-1d38-4d65-b212-bdc6874712f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Industry ...'])[1]/following::div[21]</value>
+      <webElementGuid>8769e7f3-3970-4a2b-a52a-434ba9129b15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Backend'])[1]/preceding::div[9]</value>
+      <webElementGuid>01b36326-6909-48b7-92e4-cba072bc539b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/div/div/div/div[2]/div/div/div/div/div/div/div</value>
+      <webElementGuid>a00a1bb7-e702-46a8-886b-4a3ee80d304a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Search ...' or . = 'Search ...')]</value>
+      <webElementGuid>578fdf39-ecfe-4caa-b777-025e4b0007d5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

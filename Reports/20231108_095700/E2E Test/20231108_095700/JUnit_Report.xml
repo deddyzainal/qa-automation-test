@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="E2E Test" time="124.053" tests="9" failures="0" errors="0">
+   <testsuite name="E2E Test" tests="9" failures="0" errors="0" time="124.053" skipped="0" timestamp="2023-11-08 09:57:16" hostname="appledanamas - localhost" id="Test Suites/E2E Test">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="/Users/appledanamas/Katalon Studio/QA Automation Test/Reports/20231108_095700/E2E Test/20231108_095700"/>
+         <property name="logFiles" value="/Users/appledanamas/Katalon Studio/QA Automation Test/Reports/20231108_095700/E2E Test/20231108_095700/execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="appledanamas - localhost"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="8.4.0.208"/>
+         <property name="browser" value="Firefox 109.0"/>
+         <property name="hostAddress" value="127.0.0.1"/>
+         <property name="sessionId" value="c4f49e50-1fc1-4459-8087-3bb14e3ae29d"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Mac OS X"/>
+      </properties>
+      <testcase name="Test Cases/VerifyJobDetailsPage" time="16.75" classname="Test Cases/VerifyJobDetailsPage" status="PASSED">
+         <system-out><![CDATA[2023-11-08 09:57:16 - [TEST_CASE][PASSED] - Test Cases/VerifyJobDetailsPage: Test Cases/VerifyJobDetailsPage
+
+2023-11-08 09:57:17 - [TEST_STEP][PASSED] - openBrowser("https://qode.world/career/job-listing"): Browser is opened with url: 'https://qode.world/career/job-listing'
+
+2023-11-08 09:57:17 - [MESSAGE][INFO] - Starting 'Firefox' driver
+
+2023-11-08 09:57:17 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-11-08 09:57:26 - [MESSAGE][PASSED] - Browser is opened with url: 'https://qode.world/career/job-listing'
+
+2023-11-08 09:57:26 - [TEST_STEP][PASSED] - click(findTestObject("list_first_job")): Object: 'Object Repository/list_first_job' is clicked on
+
+2023-11-08 09:57:29 - [MESSAGE][PASSED] - Object: 'Object Repository/list_first_job' is clicked on
+
+2023-11-08 09:57:29 - [TEST_STEP][PASSED] - waitForElementVisible(findTestObject("detail_job"), 3): Object 'Object Repository/detail_job' is visible
+
+2023-11-08 09:57:31 - [MESSAGE][PASSED] - Object 'Object Repository/detail_job' is visible
+
+2023-11-08 09:57:32 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("title_job"), 3): Object 'Object Repository/title_job' is present
+
+2023-11-08 09:57:32 - [MESSAGE][PASSED] - Object 'Object Repository/title_job' is present
+
+2023-11-08 09:57:32 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("detail_jobdesc"), 3): Object 'Object Repository/detail_jobdesc' is present
+
+2023-11-08 09:57:32 - [MESSAGE][PASSED] - Object 'Object Repository/detail_jobdesc' is present
+
+2023-11-08 09:57:32 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("button_Sign_In_To_Apply"), 3): Object 'Object Repository/button_Sign_In_To_Apply' is present
+
+2023-11-08 09:57:33 - [MESSAGE][PASSED] - Object 'Object Repository/button_Sign_In_To_Apply' is present
+
+2023-11-08 09:57:33 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-11-08 09:57:33 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/SortJobListByOldest" time="11.005" classname="Test Cases/SortJobListByOldest" status="PASSED">
+         <system-out><![CDATA[2023-11-08 09:57:33 - [TEST_CASE][PASSED] - Test Cases/SortJobListByOldest: Test Cases/SortJobListByOldest
+
+2023-11-08 09:57:33 - [TEST_STEP][PASSED] - openBrowser("https://qode.world/career/job-listing"): Browser is opened with url: 'https://qode.world/career/job-listing'
+
+2023-11-08 09:57:33 - [MESSAGE][INFO] - Starting 'Firefox' driver
+
+2023-11-08 09:57:34 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-11-08 09:57:40 - [MESSAGE][PASSED] - Browser is opened with url: 'https://qode.world/career/job-listing'
+
+2023-11-08 09:57:40 - [TEST_STEP][PASSED] - click(findTestObject("button_Oldest")): Object: 'Object Repository/button_Oldest' is clicked on
+
+2023-11-08 09:57:43 - [MESSAGE][PASSED] - Object: 'Object Repository/button_Oldest' is clicked on
+
+2023-11-08 09:57:43 - [TEST_STEP][PASSED] - waitForElementVisible(findTestObject("list_Job"), 3): Object 'Object Repository/list_Job' is visible
+
+2023-11-08 09:57:44 - [MESSAGE][PASSED] - Object 'Object Repository/list_Job' is visible
+
+2023-11-08 09:57:44 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-11-08 09:57:44 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/SearchJobListByRoleName" time="12.435" classname="Test Cases/SearchJobListByRoleName" status="PASSED">
+         <system-out><![CDATA[2023-11-08 09:57:44 - [TEST_CASE][PASSED] - Test Cases/SearchJobListByRoleName: Test Cases/SearchJobListByRoleName
+
+2023-11-08 09:57:45 - [TEST_STEP][PASSED] - openBrowser("https://qode.world/career/job-listing"): Browser is opened with url: 'https://qode.world/career/job-listing'
+
+2023-11-08 09:57:45 - [MESSAGE][INFO] - Starting 'Firefox' driver
+
+2023-11-08 09:57:45 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-11-08 09:57:51 - [MESSAGE][PASSED] - Browser is opened with url: 'https://qode.world/career/job-listing'
+
+2023-11-08 09:57:51 - [TEST_STEP][PASSED] - setText(findTestObject("input_Search"), roleName): Text 'QA Engineer' is set on object 'Object Repository/input_Search'
+
+2023-11-08 09:57:54 - [MESSAGE][PASSED] - Text 'QA Engineer' is set on object 'Object Repository/input_Search'
+
+2023-11-08 09:57:54 - [TEST_STEP][PASSED] - sendKeys(findTestObject("input_Search"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/input_Search'
+
+2023-11-08 09:57:55 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/input_Search'
+
+2023-11-08 09:57:55 - [TEST_STEP][PASSED] - waitForElementVisible(findTestObject("list_Job"), 3): Object 'Object Repository/list_Job' is visible
+
+2023-11-08 09:57:56 - [MESSAGE][PASSED] - Object 'Object Repository/list_Job' is visible
+
+2023-11-08 09:57:56 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-11-08 09:57:57 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/SearchJobListByLocation" time="19.525" classname="Test Cases/SearchJobListByLocation" status="PASSED">
+         <system-out><![CDATA[2023-11-08 09:57:57 - [TEST_CASE][PASSED] - Test Cases/SearchJobListByLocation: Test Cases/SearchJobListByLocation
+
+2023-11-08 09:57:57 - [TEST_STEP][PASSED] - openBrowser("https://qode.world/career/job-listing"): Browser is opened with url: 'https://qode.world/career/job-listing'
+
+2023-11-08 09:57:57 - [MESSAGE][INFO] - Starting 'Firefox' driver
+
+2023-11-08 09:57:57 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-11-08 09:58:05 - [MESSAGE][PASSED] - Browser is opened with url: 'https://qode.world/career/job-listing'
+
+2023-11-08 09:58:05 - [TEST_STEP][PASSED] - click(findTestObject("button_Location")): Object: 'Object Repository/button_Location' is clicked on
+
+2023-11-08 09:58:08 - [MESSAGE][PASSED] - Object: 'Object Repository/button_Location' is clicked on
+
+2023-11-08 09:58:08 - [TEST_STEP][PASSED] - setText(findTestObject("input_Location"), location): Text 'Vietnam' is set on object 'Object Repository/input_Location'
+
+2023-11-08 09:58:09 - [MESSAGE][PASSED] - Text 'Vietnam' is set on object 'Object Repository/input_Location'
+
+2023-11-08 09:58:09 - [TEST_STEP][PASSED] - sendKeys(findTestObject("input_Location"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/input_Location'
+
+2023-11-08 09:58:14 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/input_Location'
+
+2023-11-08 09:58:14 - [TEST_STEP][PASSED] - waitForElementVisible(findTestObject("list_Job"), 3): Object 'Object Repository/list_Job' is visible
+
+2023-11-08 09:58:15 - [MESSAGE][PASSED] - Object 'Object Repository/list_Job' is visible
+
+2023-11-08 09:58:15 - [TEST_STEP][PASSED] - verifyTextPresent(location, false): Text 'Vietnam' is present on page 
+
+2023-11-08 09:58:16 - [MESSAGE][PASSED] - Text 'Vietnam' is present on page 
+
+2023-11-08 09:58:16 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-11-08 09:58:16 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/FilterJobListByJobType" time="11.87" classname="Test Cases/FilterJobListByJobType" status="PASSED">
+         <system-out><![CDATA[2023-11-08 09:58:16 - [TEST_CASE][PASSED] - Test Cases/FilterJobListByJobType: Test Cases/FilterJobListByJobType
+
+2023-11-08 09:58:17 - [TEST_STEP][PASSED] - openBrowser("https://qode.world/career/job-listing"): Browser is opened with url: 'https://qode.world/career/job-listing'
+
+2023-11-08 09:58:17 - [MESSAGE][INFO] - Starting 'Firefox' driver
+
+2023-11-08 09:58:17 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-11-08 09:58:22 - [MESSAGE][PASSED] - Browser is opened with url: 'https://qode.world/career/job-listing'
+
+2023-11-08 09:58:22 - [TEST_STEP][PASSED] - click(findTestObject("span_Full-time")): Object: 'Object Repository/span_Full-time' is clicked on
+
+2023-11-08 09:58:25 - [MESSAGE][PASSED] - Object: 'Object Repository/span_Full-time' is clicked on
+
+2023-11-08 09:58:25 - [TEST_STEP][PASSED] - waitForElementVisible(findTestObject("list_Job"), 3): Object 'Object Repository/list_Job' is visible
+
+2023-11-08 09:58:26 - [MESSAGE][PASSED] - Object 'Object Repository/list_Job' is visible
+
+2023-11-08 09:58:26 - [TEST_STEP][PASSED] - click(findTestObject("list_first_job")): Object: 'Object Repository/list_first_job' is clicked on
+
+2023-11-08 09:58:26 - [MESSAGE][PASSED] - Object: 'Object Repository/list_first_job' is clicked on
+
+2023-11-08 09:58:26 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("detail_job"), 3): Object 'Object Repository/detail_job' is present
+
+2023-11-08 09:58:27 - [MESSAGE][PASSED] - Object 'Object Repository/detail_job' is present
+
+2023-11-08 09:58:27 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("label_detail_job"), "Full-time"): Actual text and expected text of test object 'Object Repository/label_detail_job' are matched.
+
+2023-11-08 09:58:28 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/label_detail_job' are matched.
+
+2023-11-08 09:58:28 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-11-08 09:58:28 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/FilterJobListByWorkplaceType" time="10.039" classname="Test Cases/FilterJobListByWorkplaceType" status="PASSED">
+         <system-out><![CDATA[2023-11-08 09:58:28 - [TEST_CASE][PASSED] - Test Cases/FilterJobListByWorkplaceType: Test Cases/FilterJobListByWorkplaceType
+
+2023-11-08 09:58:28 - [TEST_STEP][PASSED] - openBrowser("https://qode.world/career/job-listing"): Browser is opened with url: 'https://qode.world/career/job-listing'
+
+2023-11-08 09:58:28 - [MESSAGE][INFO] - Starting 'Firefox' driver
+
+2023-11-08 09:58:28 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-11-08 09:58:34 - [MESSAGE][PASSED] - Browser is opened with url: 'https://qode.world/career/job-listing'
+
+2023-11-08 09:58:34 - [TEST_STEP][PASSED] - click(findTestObject("span_Remote")): Object: 'Object Repository/span_Remote' is clicked on
+
+2023-11-08 09:58:37 - [MESSAGE][PASSED] - Object: 'Object Repository/span_Remote' is clicked on
+
+2023-11-08 09:58:37 - [TEST_STEP][PASSED] - waitForElementVisible(findTestObject("list_Job"), 3): Object 'Object Repository/list_Job' is visible
+
+2023-11-08 09:58:37 - [MESSAGE][PASSED] - Object 'Object Repository/list_Job' is visible
+
+2023-11-08 09:58:37 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("label_working_type"), "Remote"): Actual text and expected text of test object 'Object Repository/label_working_type' are matched.
+
+2023-11-08 09:58:38 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/label_working_type' are matched.
+
+2023-11-08 09:58:38 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-11-08 09:58:38 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/VerifyJobListFilteringByIndustry" time="16.135" classname="Test Cases/VerifyJobListFilteringByIndustry" status="PASSED">
+         <system-out><![CDATA[2023-11-08 09:58:38 - [TEST_CASE][PASSED] - Test Cases/VerifyJobListFilteringByIndustry: Test Cases/VerifyJobListFilteringByIndustry
+
+2023-11-08 09:58:38 - [TEST_STEP][PASSED] - openBrowser("https://qode.world/career/job-listing"): Browser is opened with url: 'https://qode.world/career/job-listing'
+
+2023-11-08 09:58:38 - [MESSAGE][INFO] - Starting 'Firefox' driver
+
+2023-11-08 09:58:38 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-11-08 09:58:46 - [MESSAGE][PASSED] - Browser is opened with url: 'https://qode.world/career/job-listing'
+
+2023-11-08 09:58:46 - [TEST_STEP][PASSED] - click(findTestObject("div_Industry")): Object: 'Object Repository/div_Industry' is clicked on
+
+2023-11-08 09:58:48 - [MESSAGE][PASSED] - Object: 'Object Repository/div_Industry' is clicked on
+
+2023-11-08 09:58:48 - [TEST_STEP][PASSED] - sendKeys(findTestObject("div_Industry"), companyIndustry): Keys 'Computer Software' sent to object: 'Object Repository/div_Industry'
+
+2023-11-08 09:58:49 - [MESSAGE][PASSED] - Keys 'Computer Software' sent to object: 'Object Repository/div_Industry'
+
+2023-11-08 09:58:49 - [TEST_STEP][PASSED] - sendKeys(findTestObject("div_Industry"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/div_Industry'
+
+2023-11-08 09:58:51 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/div_Industry'
+
+2023-11-08 09:58:51 - [TEST_STEP][PASSED] - waitForElementVisible(findTestObject("list_Job"), 3): Object 'Object Repository/list_Job' is visible
+
+2023-11-08 09:58:52 - [MESSAGE][PASSED] - Object 'Object Repository/list_Job' is visible
+
+2023-11-08 09:58:52 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("list_Job"), 3): Object 'Object Repository/list_Job' is present
+
+2023-11-08 09:58:54 - [MESSAGE][PASSED] - Object 'Object Repository/list_Job' is present
+
+2023-11-08 09:58:54 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-11-08 09:58:54 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/VerifyJobListFilteringBySkill" time="12.581" classname="Test Cases/VerifyJobListFilteringBySkill" status="PASSED">
+         <system-out><![CDATA[2023-11-08 09:58:54 - [TEST_CASE][PASSED] - Test Cases/VerifyJobListFilteringBySkill: Test Cases/VerifyJobListFilteringBySkill
+
+2023-11-08 09:58:55 - [TEST_STEP][PASSED] - openBrowser("https://qode.world/career/job-listing"): Browser is opened with url: 'https://qode.world/career/job-listing'
+
+2023-11-08 09:58:55 - [MESSAGE][INFO] - Starting 'Firefox' driver
+
+2023-11-08 09:58:55 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-11-08 09:59:00 - [MESSAGE][PASSED] - Browser is opened with url: 'https://qode.world/career/job-listing'
+
+2023-11-08 09:59:00 - [TEST_STEP][PASSED] - click(findTestObject("input_skill")): Object: 'Object Repository/input_skill' is clicked on
+
+2023-11-08 09:59:03 - [MESSAGE][PASSED] - Object: 'Object Repository/input_skill' is clicked on
+
+2023-11-08 09:59:03 - [TEST_STEP][PASSED] - sendKeys(findTestObject("input_skill"), skill): Keys 'Javascript' sent to object: 'Object Repository/input_skill'
+
+2023-11-08 09:59:04 - [MESSAGE][PASSED] - Keys 'Javascript' sent to object: 'Object Repository/input_skill'
+
+2023-11-08 09:59:04 - [TEST_STEP][PASSED] - sendKeys(findTestObject("input_skill"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/input_skill'
+
+2023-11-08 09:59:05 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/input_skill'
+
+2023-11-08 09:59:05 - [TEST_STEP][PASSED] - waitForElementVisible(findTestObject("list_Job"), 3): Object 'Object Repository/list_Job' is visible
+
+2023-11-08 09:59:06 - [MESSAGE][PASSED] - Object 'Object Repository/list_Job' is visible
+
+2023-11-08 09:59:06 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("list_Job"), 3): Object 'Object Repository/list_Job' is present
+
+2023-11-08 09:59:06 - [MESSAGE][PASSED] - Object 'Object Repository/list_Job' is present
+
+2023-11-08 09:59:06 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-11-08 09:59:07 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/ResetFilters" time="13.102" classname="Test Cases/ResetFilters" status="PASSED">
+         <system-out><![CDATA[2023-11-08 09:59:07 - [TEST_CASE][PASSED] - Test Cases/ResetFilters: Test Cases/ResetFilters
+
+2023-11-08 09:59:07 - [TEST_STEP][PASSED] - openBrowser("https://qode.world/career/job-listing"): Browser is opened with url: 'https://qode.world/career/job-listing'
+
+2023-11-08 09:59:07 - [MESSAGE][INFO] - Starting 'Firefox' driver
+
+2023-11-08 09:59:07 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-11-08 09:59:13 - [MESSAGE][PASSED] - Browser is opened with url: 'https://qode.world/career/job-listing'
+
+2023-11-08 09:59:13 - [TEST_STEP][PASSED] - click(findTestObject("span_Full-time")): Object: 'Object Repository/span_Full-time' is clicked on
+
+2023-11-08 09:59:16 - [MESSAGE][PASSED] - Object: 'Object Repository/span_Full-time' is clicked on
+
+2023-11-08 09:59:16 - [TEST_STEP][PASSED] - click(findTestObject("span_Remote")): Object: 'Object Repository/span_Remote' is clicked on
+
+2023-11-08 09:59:17 - [MESSAGE][PASSED] - Object: 'Object Repository/span_Remote' is clicked on
+
+2023-11-08 09:59:17 - [TEST_STEP][PASSED] - waitForElementVisible(findTestObject("list_Job"), 3): Object 'Object Repository/list_Job' is visible
+
+2023-11-08 09:59:18 - [MESSAGE][PASSED] - Object 'Object Repository/list_Job' is visible
+
+2023-11-08 09:59:18 - [TEST_STEP][PASSED] - click(findTestObject("button_Reset")): Object: 'Object Repository/button_Reset' is clicked on
+
+2023-11-08 09:59:18 - [MESSAGE][PASSED] - Object: 'Object Repository/button_Reset' is clicked on
+
+2023-11-08 09:59:18 - [TEST_STEP][PASSED] - waitForElementVisible(findTestObject("list_Job"), 3): Object 'Object Repository/list_Job' is visible
+
+2023-11-08 09:59:19 - [MESSAGE][PASSED] - Object 'Object Repository/list_Job' is visible
+
+2023-11-08 09:59:19 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("list_Job"), 3): Object 'Object Repository/list_Job' is present
+
+2023-11-08 09:59:19 - [MESSAGE][PASSED] - Object 'Object Repository/list_Job' is present
+
+2023-11-08 09:59:19 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-11-08 09:59:20 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-11-08 09:57:16 - [TEST_SUITE][PASSED] - E2E Test: Test Cases/ResetFilters]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

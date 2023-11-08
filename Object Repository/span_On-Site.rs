@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_On-Site</name>
+   <tag></tag>
+   <elementGuidId>11b1b27a-e8e8-4296-bca5-8a9e311abd48</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'On-Site' or . = 'On-Site')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Hybrid'])[1]/preceding::span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.css-7kqn8v</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>afdb9159-0879-4c15-bbd0-d6d103f5f9c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-7kqn8v</value>
+      <webElementGuid>8df9ae85-61cd-4fc1-92af-a3ffbb2bfeea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>On-Site</value>
+      <webElementGuid>1177216b-c8d6-4c1f-a452-58be89f936b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;chakra-ui-dark&quot;]/div[@class=&quot;chakra-stack css-2g2zqz&quot;]/div[@class=&quot;css-wqpyv4&quot;]/div[@class=&quot;css-fe39u1&quot;]/div[@class=&quot;css-ntl5gp&quot;]/div[@class=&quot;css-18v0xds&quot;]/div[@class=&quot;css-y6l269&quot;]/div[@class=&quot;css-144u8m4&quot;]/div[@class=&quot;css-1gybhdd&quot;]/div[@class=&quot;css-1ctzyoe&quot;]/div[@class=&quot;chakra-stack css-q9jyrf&quot;]/div[@class=&quot;chakra-stack css-1v1dldu&quot;]/div[@class=&quot;chakra-stack css-p1hkbd&quot;]/div[@class=&quot;css-1ic03qn&quot;]/span[@class=&quot;css-7kqn8v&quot;]</value>
+      <webElementGuid>cf1c2cb5-6b1e-497d-afa3-8503869d7a00</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hybrid'])[1]/preceding::span[2]</value>
+      <webElementGuid>22d38a2d-35ae-4e25-a8d8-e797bacd475c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>318d70e7-400a-4eea-abad-2b3f192cdc6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'On-Site' or . = 'On-Site')]</value>
+      <webElementGuid>2c7674c6-9cf6-4bea-a5c9-d2c7b8ddbbca</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>detail_job</name>
+   <tag></tag>
+   <elementGuidId>4bf97985-7b5a-4d01-9931-76a9cd9eda49</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='chakra-modal--body-:r6:']/div/div[3]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.chakra-stack.css-cis3xp</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>70d98b6a-e593-41dd-b2e0-2123626ceaa4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-stack css-cis3xp</value>
+      <webElementGuid>8350f82e-3279-4bdf-bef8-523b1ebd163f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Highlights</value>
+      <webElementGuid>114bf26e-a98a-481d-a8e5-db9f03290496</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>HighlightsVietnam∙Ho Chi Minh CitySalary: Negotiable5+ years of experienceComputer SoftwareHiring Region: VietnamEnglishSkillsSystem DesignGame BalanceIn-game EconomyIn-game MonetizationBlockchain</value>
+      <webElementGuid>ac1e53c7-78b0-46c0-8cf7-4bb88b7e0c19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;chakra-modal--body-:r6:&quot;)/div[@class=&quot;chakra-stack career-job-detail css-142jvh9&quot;]/div[@class=&quot;chakra-stack css-p2hcye&quot;]/div[@class=&quot;chakra-stack css-cis3xp&quot;]</value>
+      <webElementGuid>0642dc70-69ef-498c-8669-acbf59767294</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='chakra-modal--body-:r6:']/div/div[3]/div[2]</value>
+      <webElementGuid>421a84d4-8aa3-4887-a85d-33c5b829e53f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Help you to give your family the security that they deserve'])[1]/following::div[1]</value>
+      <webElementGuid>230a6c26-cd2c-4505-9a41-185ebd8fc891</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Embrace your nature as a gamer (Why else would you want to join us?)'])[1]/following::div[1]</value>
+      <webElementGuid>01574321-3b18-45f9-8aac-137ad0b33b03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div[3]/div[2]</value>
+      <webElementGuid>8e6ea9a0-db11-4906-9f81-eeb84d059eda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'HighlightsVietnam∙Ho Chi Minh CitySalary: Negotiable5+ years of experienceComputer SoftwareHiring Region: VietnamEnglishSkillsSystem DesignGame BalanceIn-game EconomyIn-game MonetizationBlockchain' or . = 'HighlightsVietnam∙Ho Chi Minh CitySalary: Negotiable5+ years of experienceComputer SoftwareHiring Region: VietnamEnglishSkillsSystem DesignGame BalanceIn-game EconomyIn-game MonetizationBlockchain')]</value>
+      <webElementGuid>d2e27c65-c72c-41e8-8941-cb03d06ab7f3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

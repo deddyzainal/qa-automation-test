@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Sign_In_To_Apply</name>
+   <tag></tag>
+   <elementGuidId>99ddff11-57a4-46b9-a7d2-ff3c89217497</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[18]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.chakra-button.css-1v7opwm</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c1a16bd8-4898-4e37-8a43-5a35fd9fed15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0a46e9e4-3e55-46b4-af00-7065f8ef0e90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-button css-1v7opwm</value>
+      <webElementGuid>29888f23-3f7d-42ab-bd34-664f65796b91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign In To Apply</value>
+      <webElementGuid>8af19ea5-70d3-4f8f-8065-72380819dbec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;chakra-modal--body-:r6:&quot;)/div[@class=&quot;chakra-stack career-job-detail css-142jvh9&quot;]/div[@class=&quot;chakra-stack css-gopid&quot;]/div[@class=&quot;css-qcqlx&quot;]/a[1]/button[@class=&quot;chakra-button css-1v7opwm&quot;]</value>
+      <webElementGuid>9ef7f15c-62ba-4bea-bf50-e16d159d1e16</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[18]</value>
+      <webElementGuid>e620348b-16d4-495e-bfea-09b68a681cfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='chakra-modal--body-:r6:']/div/div[4]/div/a/button</value>
+      <webElementGuid>4a9f9c58-4ff5-4725-9c6d-cb8f579f0f0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Help you to give your family the security that they deserve'])[2]/following::button[1]</value>
+      <webElementGuid>8ab16efe-924e-46ef-87df-ba8167607135</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Embrace your nature as a gamer (Why else would you want to join us?)'])[2]/following::button[1]</value>
+      <webElementGuid>13d8416c-a8eb-45a4-af99-4da0cd00545b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sign In To Apply']/parent::*</value>
+      <webElementGuid>a1bbf262-57f7-4c0d-9fd6-7de214cc9f42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/button</value>
+      <webElementGuid>d5bf7bbb-2271-41f0-8ee8-ff18d90bb315</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Sign In To Apply' or . = 'Sign In To Apply')]</value>
+      <webElementGuid>088929d0-a188-4a44-bc9a-0ba45d11ffb4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

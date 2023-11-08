@@ -1,0 +1,68 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+E2E Test,Firefox 100.0,,,2023-11-07 22:16:57,2023-11-07 22:20:53,3m - 56.462s,ERROR
+,,,,,,,
+Test Cases/SearchJobListByLocation,Firefox 100.0,,,2023-11-07 22:16:57,2023-11-07 22:17:44,46.741s,PASSED
+"openBrowser(""https://qode.world/career/job-listing"")",Firefox 100.0,,,2023-11-07 22:16:58,2023-11-07 22:17:06,8.160s,PASSED
+"click(findTestObject(""button_Location""))",Firefox 100.0,,,2023-11-07 22:17:06,2023-11-07 22:17:08,2.076s,PASSED
+"setText(findTestObject(""input_Location""), location)",Firefox 100.0,,,2023-11-07 22:17:08,2023-11-07 22:17:09,0.995s,PASSED
+"sendKeys(findTestObject(""input_Location""), Keys.chord(ENTER))",Firefox 100.0,,,2023-11-07 22:17:09,2023-11-07 22:17:10,1.240s,PASSED
+"click(findTestObject(""button_close_popup""), OPTIONAL)",Firefox 100.0,,,2023-11-07 22:17:10,2023-11-07 22:17:42,31.409s,PASSED
+"waitForElementVisible(findTestObject(""list_Job""), 3)",Firefox 100.0,,,2023-11-07 22:17:42,2023-11-07 22:17:42,0.744s,PASSED
+"verifyTextPresent(location, false)",Firefox 100.0,,,2023-11-07 22:17:42,2023-11-07 22:17:43,0.732s,PASSED
+closeBrowser(),Firefox 100.0,,,2023-11-07 22:17:43,2023-11-07 22:17:44,0.848s,PASSED
+,,,,,,,
+Test Cases/SearchJobListByRoleName,Firefox 100.0,,,2023-11-07 22:17:44,2023-11-07 22:17:54,9.913s,ERROR
+"openBrowser(""https://qode.world/career/job-listing"")",Firefox 100.0,,,2023-11-07 22:17:44,2023-11-07 22:17:50,5.830s,PASSED
+"setText(findTestObject(""input_Search""), roleName)",Firefox 100.0,,,2023-11-07 22:17:50,2023-11-07 22:17:52,1.841s,PASSED
+"sendKeys(findTestObject(""input_Search""), Keys.chord(ENTER))",Firefox 100.0,,,2023-11-07 22:17:52,2023-11-07 22:17:53,0.954s,PASSED
+"waitForElementVisible(findTestObject(""list_Job""), 3)",Firefox 100.0,,,2023-11-07 22:17:53,2023-11-07 22:17:54,0.929s,PASSED
+"verifyElementText(findTestObject(), roleName)",Firefox 100.0,,,2023-11-07 22:17:54,2023-11-07 22:17:54,0.056s,ERROR
+,,,,,,,
+Test Cases/VerifyJobDetailsPage,Firefox 100.0,,,2023-11-07 22:17:54,2023-11-07 22:18:05,11.427s,PASSED
+"openBrowser(""https://qode.world/career/job-listing"")",Firefox 100.0,,,2023-11-07 22:17:54,2023-11-07 22:17:59,5.332s,PASSED
+"click(findTestObject(""list_first_job""))",Firefox 100.0,,,2023-11-07 22:17:59,2023-11-07 22:18:01,1.757s,PASSED
+"waitForElementVisible(findTestObject(""detail_job""), 3)",Firefox 100.0,,,2023-11-07 22:18:01,2023-11-07 22:18:02,0.694s,PASSED
+"verifyElementPresent(findTestObject(""title_job""), 3)",Firefox 100.0,,,2023-11-07 22:18:02,2023-11-07 22:18:02,0.310s,PASSED
+"verifyElementPresent(findTestObject(""detail_jobdesc""), 3)",Firefox 100.0,,,2023-11-07 22:18:02,2023-11-07 22:18:03,0.307s,PASSED
+"verifyElementPresent(findTestObject(""button_Sign_In_To_Apply""), 3)",Firefox 100.0,,,2023-11-07 22:18:03,2023-11-07 22:18:05,2.120s,PASSED
+closeBrowser(),Firefox 100.0,,,2023-11-07 22:18:05,2023-11-07 22:18:05,0.601s,PASSED
+,,,,,,,
+Test Cases/SortJobListByOldest,Firefox 100.0,,,2023-11-07 22:18:05,2023-11-07 22:18:14,8.525s,PASSED
+"openBrowser(""https://qode.world/career/job-listing"")",Firefox 100.0,,,2023-11-07 22:18:06,2023-11-07 22:18:10,4.216s,PASSED
+"click(findTestObject(""button_Oldest""))",Firefox 100.0,,,2023-11-07 22:18:10,2023-11-07 22:18:13,2.802s,PASSED
+"waitForElementVisible(findTestObject(""list_Job""), 3)",Firefox 100.0,,,2023-11-07 22:18:13,2023-11-07 22:18:13,0.665s,PASSED
+closeBrowser(),Firefox 100.0,,,2023-11-07 22:18:13,2023-11-07 22:18:14,0.558s,PASSED
+,,,,,,,
+Test Cases/FilterJobListByJobType,Firefox 100.0,,,2023-11-07 22:18:14,2023-11-07 22:18:30,16.087s,PASSED
+"openBrowser(""https://qode.world/career/job-listing"")",Firefox 100.0,,,2023-11-07 22:18:14,2023-11-07 22:18:19,4.735s,PASSED
+"click(findTestObject(""span_Full-time""))",Firefox 100.0,,,2023-11-07 22:18:19,2023-11-07 22:18:21,1.774s,PASSED
+"waitForElementVisible(findTestObject(""list_Job""), 3)",Firefox 100.0,,,2023-11-07 22:18:21,2023-11-07 22:18:21,0.642s,PASSED
+"click(findTestObject(""list_first_job""))",Firefox 100.0,,,2023-11-07 22:18:21,2023-11-07 22:18:22,0.664s,PASSED
+"verifyElementPresent(findTestObject(""detail_job""), 3)",Firefox 100.0,,,2023-11-07 22:18:22,2023-11-07 22:18:29,7.020s,PASSED
+"verifyElementText(findTestObject(""label_detail_job""), ""Full-time"")",Firefox 100.0,,,2023-11-07 22:18:29,2023-11-07 22:18:29,0.403s,PASSED
+closeBrowser(),Firefox 100.0,,,2023-11-07 22:18:29,2023-11-07 22:18:30,0.535s,PASSED
+,,,,,,,
+Test Cases/VerifyJobListFilteringByIndustry,Firefox 100.0,,,2023-11-07 22:18:30,2023-11-07 22:18:57,26.752s,PASSED
+"openBrowser(""https://qode.world/career/job-listing"")",Firefox 100.0,,,2023-11-07 22:18:30,2023-11-07 22:18:44,14.298s,PASSED
+"click(findTestObject(""div_Industry""))",Firefox 100.0,,,2023-11-07 22:18:44,2023-11-07 22:18:53,8.390s,PASSED
+"sendKeys(findTestObject(""div_Industry""), companyIndustry)",Firefox 100.0,,,2023-11-07 22:18:53,2023-11-07 22:18:53,0.532s,PASSED
+"sendKeys(findTestObject(""div_Industry""), Keys.chord(ENTER))",Firefox 100.0,,,2023-11-07 22:18:53,2023-11-07 22:18:55,1.473s,PASSED
+"waitForElementVisible(findTestObject(""list_Job""), 3)",Firefox 100.0,,,2023-11-07 22:18:55,2023-11-07 22:18:56,0.943s,PASSED
+"verifyElementPresent(findTestObject(""list_Job""), 3)",Firefox 100.0,,,2023-11-07 22:18:56,2023-11-07 22:18:56,0.333s,PASSED
+closeBrowser(),Firefox 100.0,,,2023-11-07 22:18:56,2023-11-07 22:18:57,0.525s,PASSED
+,,,,,,,
+Test Cases/VerifyJobListFilteringBySkill,Firefox 100.0,,,2023-11-07 22:18:57,2023-11-07 22:20:44,1m - 47.747s,PASSED
+"openBrowser(""https://qode.world/career/job-listing"")",Firefox 100.0,,,2023-11-07 22:18:57,2023-11-07 22:19:10,13.099s,PASSED
+"click(findTestObject(""input_skill""))",Firefox 100.0,,,2023-11-07 22:19:10,2023-11-07 22:19:12,2.212s,PASSED
+"sendKeys(findTestObject(""input_skill""), skill)",Firefox 100.0,,,2023-11-07 22:19:12,2023-11-07 22:19:13,0.593s,PASSED
+"sendKeys(findTestObject(""input_skill""), Keys.chord(ENTER))",Firefox 100.0,,,2023-11-07 22:19:13,2023-11-07 22:19:43,30.483s,PASSED
+"waitForElementVisible(findTestObject(""list_Job""), 3)",Firefox 100.0,,,2023-11-07 22:19:43,2023-11-07 22:20:14,30.297s,PASSED
+"verifyElementPresent(findTestObject(""list_Job""), 3)",Firefox 100.0,,,2023-11-07 22:20:14,2023-11-07 22:20:44,30.212s,PASSED
+closeBrowser(),Firefox 100.0,,,2023-11-07 22:20:44,2023-11-07 22:20:44,0.529s,PASSED
+,,,,,,,
+Test Cases/FilterJobListByWorkplaceType,Firefox 100.0,,,2023-11-07 22:20:44,2023-11-07 22:20:53,8.652s,PASSED
+"openBrowser(""https://qode.world/career/job-listing"")",Firefox 100.0,,,2023-11-07 22:20:45,2023-11-07 22:20:49,4.608s,PASSED
+"click(findTestObject(""span_Remote""))",Firefox 100.0,,,2023-11-07 22:20:49,2023-11-07 22:20:51,1.973s,PASSED
+"waitForElementVisible(findTestObject(""list_Job""), 3)",Firefox 100.0,,,2023-11-07 22:20:51,2023-11-07 22:20:52,0.755s,PASSED
+"verifyElementText(findTestObject(""label_working_type""), ""Remote"")",Firefox 100.0,,,2023-11-07 22:20:52,2023-11-07 22:20:53,0.489s,PASSED
+closeBrowser(),Firefox 100.0,,,2023-11-07 22:20:53,2023-11-07 22:20:53,0.548s,PASSED

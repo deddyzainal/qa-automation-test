@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_On-site</name>
+   <tag></tag>
+   <elementGuidId>e4f65ecd-ce11-4056-94b6-dafd4b740be9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'On-site' or . = 'On-site')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content-center']/div[2]/div/div/div/div/div/div[2]/div/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.chakra-text.css-1ryau8n</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>0753aa84-6e30-450c-bfdb-b4e35893be98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-text css-1ryau8n</value>
+      <webElementGuid>1f2cef29-f107-4a2a-93b0-a33fd160a61d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>On-site</value>
+      <webElementGuid>58c83475-61d6-4ccb-a838-9a918ea88a93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content-center&quot;)/div[@class=&quot;css-16gze1t&quot;]/div[@class=&quot;infinite-scroll-component__outerdiv&quot;]/div[@class=&quot;infinite-scroll-component&quot;]/div[@class=&quot;chakra-stack css-qzvunm&quot;]/div[@class=&quot;chakra-stack css-rozekk&quot;]/div[@class=&quot;css-b9l1nz&quot;]/div[@class=&quot;css-nez2bf&quot;]/div[@class=&quot;css-1p3q773&quot;]/div[@class=&quot;css-1m6lxlp&quot;]/p[@class=&quot;chakra-text css-1ryau8n&quot;]</value>
+      <webElementGuid>493b286d-3dd7-4609-9537-2ec07c7ed4e6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content-center']/div[2]/div/div/div/div/div/div[2]/div/div/p</value>
+      <webElementGuid>de8b4d2d-e5ea-4810-80e0-085621bb49b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DevOps'])[1]/following::p[5]</value>
+      <webElementGuid>d7cad683-6844-4a6e-8b79-ef047dac5387</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Java'])[1]/following::p[5]</value>
+      <webElementGuid>1a89dc9e-b8db-4d9d-b808-d02de3c87da0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Blockchain'])[1]/preceding::p[2]</value>
+      <webElementGuid>4991f61e-d33e-4e95-a6e3-87dedc743330</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='In-game Economy'])[1]/preceding::p[2]</value>
+      <webElementGuid>91385558-3cf2-433c-90c7-b94ae07fd5b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='On-site']/parent::*</value>
+      <webElementGuid>09078f45-cafa-43c8-ac22-290c13b1bfb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div[2]/div/div/p</value>
+      <webElementGuid>750b1759-60a0-4fe9-bee0-923249373c12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'On-site' or . = 'On-site')]</value>
+      <webElementGuid>84c05445-aabd-411d-9fa3-be164d2cb0b6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

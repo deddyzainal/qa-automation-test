@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_detail_job</name>
+   <tag></tag>
+   <elementGuidId>ef8fa708-6e57-4a45-8925-0dde195cdfa8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Full-time' or . = 'Full-time')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='chakra-modal--body-:rf:']/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-z7mtfw</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8f74d79e-9743-4bfd-9f7e-1176d097ab6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-z7mtfw</value>
+      <webElementGuid>d2ac9f3b-22ce-47d4-ada4-68fbf473cf70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Full-time</value>
+      <webElementGuid>ec1317c4-67f6-439c-8f02-3d1d2c198d4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;chakra-modal--body-:rf:&quot;)/div[@class=&quot;chakra-stack career-job-detail css-142jvh9&quot;]/div[@class=&quot;chakra-stack css-19akpcb&quot;]/div[@class=&quot;css-z7mtfw&quot;]</value>
+      <webElementGuid>6f9e04ea-e245-4bfb-a34e-ca8299b44b44</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='chakra-modal--body-:rf:']/div/div[2]/div</value>
+      <webElementGuid>df242e45-8b7d-4877-bf83-3e6484b19791</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[2]/following::div[20]</value>
+      <webElementGuid>4242996b-0753-46df-94b8-ee306afa52f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alt'])[2]/following::div[20]</value>
+      <webElementGuid>77648b54-1efd-4658-b6c7-9cd3bfeaefc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div[2]/div</value>
+      <webElementGuid>09139248-fa13-41b9-8500-f5f3d26f926a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'On-siteFull-timeabout 3 hours ago' or . = 'On-siteFull-timeabout 3 hours ago')]</value>
+      <webElementGuid>b4374595-4464-48f6-b46a-01d137ab2743</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

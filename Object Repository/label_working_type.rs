@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_working_type</name>
+   <tag></tag>
+   <elementGuidId>f3f0963d-bf85-4c43-8ee7-7066bd0597c1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Remote' or . = 'Remote')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content-center']/div[2]/div/div/div/div/div/div[2]/div/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.chakra-text.css-knq2le</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>45677464-564f-410a-9e8e-7763647fdbce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-text css-knq2le</value>
+      <webElementGuid>ef9d19a8-d81c-400e-a79e-b6ca1da72170</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Remote</value>
+      <webElementGuid>9913ab59-6649-4065-a1f1-ba0f28063359</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content-center&quot;)/div[@class=&quot;css-16gze1t&quot;]/div[@class=&quot;infinite-scroll-component__outerdiv&quot;]/div[@class=&quot;infinite-scroll-component&quot;]/div[@class=&quot;chakra-stack css-qzvunm&quot;]/div[@class=&quot;chakra-stack css-rozekk&quot;]/div[@class=&quot;css-b9l1nz&quot;]/div[@class=&quot;css-nez2bf&quot;]/div[@class=&quot;css-1p3q773&quot;]/div[@class=&quot;css-1m6lxlp&quot;]/p[@class=&quot;chakra-text css-knq2le&quot;]</value>
+      <webElementGuid>11f95b95-3fcb-4938-8ab9-93061df40972</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content-center']/div[2]/div/div/div/div/div/div[2]/div/div/p</value>
+      <webElementGuid>2b0349f4-9062-4aea-ac8c-48b9ceaeca6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DevOps'])[1]/following::p[5]</value>
+      <webElementGuid>bc72fb10-6231-4a6e-8451-729228a807c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Java'])[1]/following::p[5]</value>
+      <webElementGuid>2bcc15f0-7d09-4fe9-8d5b-6b1c43ff2861</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AWS'])[1]/preceding::p[4]</value>
+      <webElementGuid>8502530b-0351-4934-9e06-30d02449f5a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Azure'])[1]/preceding::p[4]</value>
+      <webElementGuid>a726ac49-b73d-4ac8-9f99-68524d0f8043</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div[2]/div/div/p</value>
+      <webElementGuid>e0b8de9f-da75-4047-8ea7-5fbc745bf40a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Remote' or . = 'Remote')]</value>
+      <webElementGuid>9723d47a-36c0-4576-9474-dcf075e15695</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
